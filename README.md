@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdullaal7
-- 👀 I’m interested in Software Developent.
+- 👋 Hi, I’m Ahmed Abdullaal
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Oracle ADF.
-- 💞️ I’m looking to collaborate on ADLSA Project.
+- 💞️ I’m looking to collaborate on Enterprise Project.
 - 📫 How to reach me ahmedabdullaal7@gmail.com.
 
 <!---
