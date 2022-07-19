@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Abdullaal
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Oracle ADF.
+- 🌱 I’m currently learning Spring Boot.
 - 💞️ I’m looking to collaborate on Enterprise Project.
 - 📫 How to reach me ahmedabdullaal7@gmail.com.
 
